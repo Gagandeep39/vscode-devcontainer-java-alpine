@@ -23,6 +23,7 @@
     "vscjava.vscode-java-debug",
     "redhat.java",
     "gabrielbb.vscode-lombok",
+    "humao.rest-client",
   ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
