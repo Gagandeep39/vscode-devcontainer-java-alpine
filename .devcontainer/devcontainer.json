@@ -21,7 +21,8 @@
     "pivotal.vscode-manifest-yaml",
     "visualstudioexptteam.vscodeintellicode",
     "vscjava.vscode-java-debug",
-    "redhat.java"
+    "redhat.java",
+    "gabrielbb.vscode-lombok",
   ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
